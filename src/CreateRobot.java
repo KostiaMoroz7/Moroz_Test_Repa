@@ -12,7 +12,6 @@ public class CreateRobot {
     private String enteredLetterWithDamageRobot = " ";
 
 
-
     public CreateRobot(String externalRobotName) {
         robotName = externalRobotName;
         damageString = new StringBuffer(mainString);

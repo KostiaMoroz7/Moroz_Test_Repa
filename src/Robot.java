@@ -35,14 +35,5 @@ public class Robot extends CreateRobot {
         return letter;
     }
 
-    public static Robot[] removeDeadRobot( Robot[] robotMassive) {
-        List test = new ArrayList<>();
-        test.toArray();
-        for (int i = 0; i < robotMassive.length; i++) {
-
-        }
-        return robotMassive;
-    }
-
 
 }
